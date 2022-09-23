@@ -1,4 +1,4 @@
-# Pyton Pip'i Görememe Sorunu
+# Python Pip'i Görememe Sorunu
 Python'nın Pip Görmeme Sorunu
 Merhaba Ben ensoi bugün sizlere Python'nun Pip yüklü olduğu halde görememesi sorununu düzeltmeyi göstereceğim, aslında çözümü çok basit sadece Path'e Python'un kurulu olduğu dosyanın konumu (yolunu) belirtmemiz lazım 
 
